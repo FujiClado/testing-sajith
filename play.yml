@@ -1,2 +1,7 @@
 - installing apache & php
 - Creating httpd.conf
+- creating virtualhost
+- creating documentroot
+- copying sample file
+- Copying our php site
+- restarting/enabling apache
